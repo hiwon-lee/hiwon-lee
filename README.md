@@ -5,7 +5,7 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/label-#041E42?style=for-the-badge&logo=funimation&logoColor=#FF4F64"/></a>
 
 <!-- plastic, flat, flat-square, for-the-badge, social -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gwidding%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwon-lee&show_icons=true&theme=radical)
 <!--
 **hiwon-lee/hiwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
