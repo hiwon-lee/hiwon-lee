@@ -6,7 +6,7 @@
 
 <!-- plastic, flat, flat-square, for-the-badge, social -->
 
-![Heewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwon-lee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwon-lee&show_icons=true&theme=radical)
 <!--
 **hiwon-lee/hiwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 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
