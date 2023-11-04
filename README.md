@@ -1,4 +1,6 @@
 ### Hi there 👋
+### - 🌱 I’m currently learning Spring(Boot)..
+### - ⚡ Fun fact: hungry..
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/label-#041E42?style=for-the-badge&logo=funimation&logoColor=#FF4F64"/></a>
 
