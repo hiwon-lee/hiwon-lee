@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 반갑다 👋
 ### - 🌱 I’m currently learning Spring(Boot)..
 ### - ⚡ Fun fact: hungry..
 
