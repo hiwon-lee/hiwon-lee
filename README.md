@@ -1,9 +1,10 @@
 ### Hi there 반갑다 👋
-### 여백의 미가 원래 가장 아름다운 겁니다...
+#### 여백의 미~_~
 #### - 🌱 I’m currently learning FE stack...
 #### - ⚡ Fun fact: hungry..
 #### - 💬 Ask me about nothing..
-Iwannagohome
+
+
 
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/label-#041E42?style=for-the-badge&logo=funimation&logoColor=#FF4F64"/></a>
  -->
@@ -24,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: hangman..
 - ⚡ Fun fact: give me money..
 -->
+##### - 한양대학교 [생애최초 청년창업] (2021.08)
+##### - 경희대학교 캠퍼스타운 blooburn (2021.11)
+##### - 엠투소프트 인턴 (2022.01)
+##### - 블루솔루션즈 인턴 (2024.07)
