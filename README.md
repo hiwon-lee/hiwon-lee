@@ -1,8 +1,9 @@
-### Hi there 반갑다 👋
+## Hi there 반갑다 👋
 #### 여백의 미~_~
-#### - 🌱 I’m currently learning FE stack...
-#### - ⚡ Fun fact: hungry..
-#### - 💬 Ask me about nothing..
+### - 🌱 I’m currently learning FE stack...
+### - ⚡ Fun fact: hungry..
+### - 💬 Ask me about nothing..
+- 📫 How to reach me: hiiwonii1012@gmail.com
 
 
 
@@ -25,7 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: hangman..
 - ⚡ Fun fact: give me money..
 -->
-##### - 한양대학교 [생애최초 청년창업] (2021.08)
-##### - 경희대학교 캠퍼스타운 blooburn (2021.11)
-##### - 엠투소프트 인턴 (2022.01)
-##### - 블루솔루션즈 인턴 (2024.07)
+- 한양대학교 [생애최초 청년창업] (2021.08)
+- 경희대학교 캠퍼스타운 blooburn (2021.11)
+- 엠투소프트 인턴 (2022.01)
+- 블루솔루션즈 인턴 (2024.07)
+- CEOS FE (2024.09)
