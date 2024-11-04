@@ -1,13 +1,16 @@
 ## Hi there 반갑다 👋
-<span>
-  <a href="https://www.instagram.com/2h_2e_w0n/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
+
 
 <!-- plastic, flat, flat-square, for-the-badge, social -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gwidding%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
+![](https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hiwon-lee%2Fgjbae1212%2Fhit-counter)
 
+## 📚 Stack
+![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/React-%23F24E1E.svg?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
