@@ -1,14 +1,5 @@
 ## Hi there 반갑다 👋
 
-|type|예상 성능|근거|
-|---|---|---|
-|**Adam**|가장 높은 정확도|학습률을 동적으로 조정하며, CNN에서 안정적이고 빠른 수렴을 제공.|
-|**RMSprop**|Adam과 유사 또는 약간 낮은 정확도|기울기에 따라 학습률을 조정하여 안정적이지만, CNN에서는 Adam보다 덜 효과적일 수 있음.|
-|**SGD**|가장 낮은 정확도|수렴 속도가 느리고 학습률에 민감하지만, 적절히 튜닝하면 일반화 성능이 개선될 가능성 있음.|
-
-<!-- plastic, flat, flat-square, for-the-badge, social -->
-![](https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white)
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hiwon-lee%2Fgjbae1212%2Fhit-counter)
 
 ## 📚 Stack
 ![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
