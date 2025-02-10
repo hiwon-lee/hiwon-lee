@@ -1,5 +1,12 @@
 ## Hi there 반갑다 👋
-
+ㄴㅇㄱ 진짜 왕창 귀엽당
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hiwon-lee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hiwon-lee"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 📚 Stack
 ![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -7,6 +14,7 @@
 ![](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/React-%23F24E1E.svg?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
+
 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
