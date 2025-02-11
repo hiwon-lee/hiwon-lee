@@ -1,4 +1,5 @@
 ## Hi there 반갑다 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiwon-lee&count_bg=%23057A00&title_bg=%231A1A1A&icon=waze.svg&icon_color=%23FCCF08&title=%EC%95%88%EB%85%95+%EB%B0%98%EA%B0%91%EB%8B%A4&edge_flat=false)](https://hits.seeyoufarm.com)
 ㄴㅇㄱ 진짜 왕창 귀엽당
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hiwon-lee&utm_content=farm">
 <img
@@ -25,6 +26,7 @@
 </a>  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saebale314)
 
 <!--
 **hiwon-lee/hiwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
