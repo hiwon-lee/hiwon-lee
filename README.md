@@ -1,6 +1,17 @@
 ## Hi there 반갑다 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiwon-lee&count_bg=%23057A00&title_bg=%231A1A1A&icon=waze.svg&icon_color=%23FCCF08&title=%EC%95%88%EB%85%95+%EB%B0%98%EA%B0%91%EB%8B%A4&edge_flat=false)](https://hits.seeyoufarm.com)
-ㄴㅇㄱ 진짜 왕창 귀엽당
+
+### - 🌱 I’m currently learning BE stack...
+
+- 📫 How to reach me: hiiwonii1012@gmail.com
+- 🔭 I’m currently working on Ewha..
+- 🌱 I’m currently learning LLM..
+- ⚡ Fun fact: muuuuuuahhhhh..........
+
+- CEOS FE (2024.09)
+- (주) 블루에스랩 개발부 인턴 (2024.07)
+- 엠투소프트 인턴 (2022.01)
+- 경희대학교 캠퍼스타운 blooburn (2021.11)
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hiwon-lee&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hiwon-lee"
@@ -8,6 +19,7 @@
   height="300"
 />
 </a>
+
 
 ## 📚 Stack
 ![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
