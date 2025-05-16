@@ -7,66 +7,50 @@
 - 🌱 I’m currently learning LLM..
 - ⚡ Fun fact: muuuuuuahhhhh..........
 
-- CEOS FE (2024.09)
-- (주) 블루에스랩 개발부 인턴 (2024.07)
-- 엠투소프트 인턴 (2022.01)
-- 경희대학교 캠퍼스타운 blooburn (2021.11)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hiwon-lee&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/hiwon-lee"
-  width="600"
-  height="300"
-/>
-</a>
+## 📚 Tech Stack
+
+### 🧑‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### 🛠️ Front-End  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=flat-square&logo=styled-components&logoColor=white)
+
+### 🗄️ Back-End / DB  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🎨 Tools  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### ☁️ etc.  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+CEOS FE (2024.09)<br/>
+(주) 블루에스랩 개발부 인턴 (2024.07)<br/>
+엠투소프트 인턴 (2022.01)<br/>
+경희대학교 캠퍼스타운 blooburn (2021.11)
 
 
-## 📚 Stack
-![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/React-%23F24E1E.svg?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)
+
+<div align="center"> 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saebale314" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=hiwon-lee&theme=material-palenight&hide_border=true&background=20232a&ring=58A6FF&fire=58A6FF&currStreakLabel=fff" width="49%" />
+</div>
 
 
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiwon-lee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/hiwon-lee/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwon-lee&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saebale314)
-
-<!--
-**hiwon-lee/hiwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-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
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiwon-lee&show_icons=true&theme=radical)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiwon-lee&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-Here are some ideas to get you started:
-#### 여백의 미~_~
-### - 🌱 I’m currently learning FE stack...
-### - ⚡ Fun fact: hungry..
-### - 💬 Ask me about nothing..
-- 📫 How to reach me: hiiwonii1012@gmail.com
-- 🔭 I’m currently working on Ewha..
-- 🌱 I’m currently learning LLM..
-- 👯 I’m looking to collaborate on gia
-- 🤔 I’m looking for help with someone...
-- 💬 Ask me about nothing..
-- 📫 How to reach me: hiiwonii1012@gmail.com
-- 😄 Pronouns: hangman..
-- ⚡ Fun fact: give me money..
-- 한양대학교 [생애최초 청년창업] (2021.08)
-- 경희대학교 캠퍼스타운 blooburn (2021.11)
-- 엠투소프트 인턴 (2022.01)
-- 블루솔루션즈 인턴 (2024.07)
-- CEOS FE (2024.09)
--->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/> </div>
 
