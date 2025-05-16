@@ -4,7 +4,6 @@
 
 - 📫 How to reach me: hiiwonii1012@gmail.com
 - 🔭 I’m currently working on Ewha..
-- 🌱 I’m currently learning LLM..
 - ⚡ Fun fact: muuuuuuahhhhh..........
 
 
