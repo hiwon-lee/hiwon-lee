@@ -3,7 +3,7 @@
 ### - 🌱 I’m currently learning BE stack...
 
 - 📫 How to reach me: hiiwonii1012@gmail.com
-- 🔭 I’m currently working on Ewha..
+- 🔭 B.S. in Computer Engineering
 - ⚡ Fun fact: muuuuuuahhhhh..........
 
 
@@ -44,7 +44,7 @@ EDOC (2025.03 ~) <br/>
 CEOS FE (2024.09)<br/>
 (주) 블루에스랩 개발부 인턴 (2024.07)<br/>
 엠투소프트 인턴 (2022.01)<br/>
-경희대학교 캠퍼스타운 blooburn (2021.11)
+캠퍼스타운 2기 blooburn (2021.11)
 
 
 
